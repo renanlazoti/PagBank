@@ -3,7 +3,7 @@
 Clone da interface do banco PagBank, desenvolvendo o front-end da aplicação.
 <br>
 
-![Imagem do portfólio](assets/pag.jpg)
+<img src="assets/pag.jpg" width="200px;" />
 
 <br>
 
